@@ -1,0 +1,9 @@
+logger_level: -1
+port: 3000
+jaeger_addr: "http://jaeger-instance-collector.observability:14268/api/traces"
+tracer_name: "team22_auth"
+sentry_dsn: "https://c961a8cbb3ef4842aac8669e07674d96@o4503921016700928.ingest.sentry.io/4503921026203648"
+users:
+  user1: "JCJHONE9mh6O3zkZqQiGdsfzaXtrGJhKt+mD+kEwJAs="
+  vladimir: "m+szy3Mo23sqWHMJgUSRxKllGZn5E7Qy8+H4jwEVm+4="
+  someuser: "H+KJft2eQ950ls39N5LWZMV88/8n1bouxC2ncQ1KdK0="
